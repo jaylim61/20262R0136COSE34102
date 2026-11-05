@@ -1,8 +1,13 @@
-# 20262RCOSE32202
-KU Fall 2026 Operating Systems
+# 20262R0136COSE34102
 
-[Project #0](./project-0.md)
+KU Fall 2026 Operating Systems \[COSE341-02]
 
-[Project #1](./project-1.md)
+## [Project #0](./project-0.md)
+Linux kernel compilation
 
-[Project #2](./project-2.md)
+## [Project #1](./project-1.md)
+Adding new system calls
+
+## [Project #2](./project-2.md)
+Implementation and analysis of the virtual CPU and its scheduling
+
