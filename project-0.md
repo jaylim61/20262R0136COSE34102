@@ -4,7 +4,7 @@
 ### Custom Kernel Compilation
 execute the following command to compile a custom kernel:
 ```bash
-make KCONFIG_CONFIG_Microsoft/config-wsl -j [number of CPUs]
+make KCONFIG_CONFIG=Microsoft/config-wsl -j [number of CPUs]
 ```
 - run `lscpu` to get the number of CPUs
 - After compilation, `vmlinux` (kernel image) is created under `~/WSL2-Linux_Kernel`
